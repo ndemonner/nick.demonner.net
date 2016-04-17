@@ -1,0 +1,8 @@
+nick.demonner.net
+gzip
+log syslog
+errors syslog
+root /home/ubuntu/nick.demonner.net/_site
+git github.com/ndemonner/nick.demonner.net ../ {
+  hook /github-webhook 84aa3f20be1b9c36c8439f96
+}
