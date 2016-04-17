@@ -2,7 +2,6 @@
  * Site header
  */
 .site-header {
-    border-top: 5px solid $grey-color-dark;
     border-bottom: 1px solid $grey-color-light;
     min-height: 56px;
 
@@ -17,10 +16,16 @@
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
+    text-decoration: none;
 
     &,
     &:visited {
-        color: $grey-color-dark;
+        color: $brand-color;
+    }
+
+    &:hover {
+        color: darken($brand-color, 15%);
+        text-decoration: none;
     }
 }
 
@@ -100,6 +105,10 @@
 .site-footer {
     border-top: 1px solid $grey-color-light;
     padding: $spacing-unit 0;
+
+    a {
+      text-decoration: none;
+    }
 }
 
 .footer-heading {
@@ -182,6 +191,10 @@
     > li {
         margin-bottom: $spacing-unit;
     }
+
+    a {
+      text-decoration: none;
+    }
 }
 
 .post-meta {
@@ -194,6 +207,12 @@
     font-size: 24px;
 }
 
+.rss-subscribe {
+  a {
+    text-decoration: none;
+  }
+
+}
 
 
 /**
