@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Toiling in the bit fields</title>
-    <description>This is an experiment in getting things out of my head and recorded somewhere. Thoughts are mine and mine alone (unless otherwise noted). I plan on writing about being a founder of a growing company, being a programmer, and making things.
+    <description>This is an experiment in getting things out of my head and recorded somewhere. Thoughts are mine and mine alone (unless otherwise noted). I plan on writing about being a founder and programmer in a growing company, and programming miscellenia.
 </description>
     <link>https://nick.demonner.net/</link>
     <atom:link href="https://nick.demonner.net/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 17 Apr 2016 10:57:44 -0700</pubDate>
-    <lastBuildDate>Sun, 17 Apr 2016 10:57:44 -0700</lastBuildDate>
+    <pubDate>Mon, 18 Apr 2016 06:42:58 -0700</pubDate>
+    <lastBuildDate>Mon, 18 Apr 2016 06:42:58 -0700</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
