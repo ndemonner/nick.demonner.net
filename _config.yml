@@ -9,8 +9,9 @@
 title: Toiling in the bit fields
 description: >
   This is an experiment in getting things out of my head and recorded somewhere.
-  Thoughts are mine and mine alone (unless otherwise noted). I plan on writing about
-  being a founder and programmer in a growing company, and programming miscellenia.
+  Thoughts are mine and mine alone (unless otherwise noted). I plan on mostly writing about
+  being CTO of a growing company, with some programming miscellenia thrown in for good
+  measure.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://nick.demonner.net" # the base hostname & protocol for your site
 twitter_username: ndemonner
